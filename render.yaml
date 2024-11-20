@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Nowgg X
+    name: mythical beast retsu
     env: node
     buildCommand: npm install
     startCommand: npm start
