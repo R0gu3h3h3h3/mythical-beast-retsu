@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: leo p is goated
+    name: cotton-cone-rblx
     env: node
     buildCommand: npm install
     startCommand: npm start
