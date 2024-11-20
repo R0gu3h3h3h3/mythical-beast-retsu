@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mythical beast retsu
+    name: leo p is goated
     env: node
     buildCommand: npm install
     startCommand: npm start
