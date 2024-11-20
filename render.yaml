@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: cotton-cone-rblx
+    name: rainbowwolfgodgames-zanesite
     env: node
     buildCommand: npm install
     startCommand: npm start
