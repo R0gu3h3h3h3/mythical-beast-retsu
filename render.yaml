@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: zanegameshub
+    name: ryoiki-tenkai
     env: node
     buildCommand: npm install
     startCommand: npm start
